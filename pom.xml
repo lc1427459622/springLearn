@@ -17,7 +17,7 @@
         <!-- 这里的版本号,都是可以被子pom覆盖的,所以版本号基本可以不用改 -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jdk.version>1.8</jdk.version>
-        <spring.version>4.1.6.RELEASE</spring.version>
+        <spring.version>4.2.7.RELEASE</spring.version>
         <mybatis.version>3.2.8</mybatis.version>
         <mybatis.spring.version>1.2.2</mybatis.spring.version>
         <mysql.connector.version>5.1.35</mysql.connector.version>
